@@ -1,0 +1,5 @@
+2)если говорить о рисунке в файле human.txt, то он идентичен в ветках master и hat.
+4) 3 коммита:
+fix readme
+README added
+init
